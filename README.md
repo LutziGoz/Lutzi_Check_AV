@@ -1,7 +1,7 @@
 # Lutzi_Check_AV
 ## This GUI Produced to Check and search what is a Security Service running on your OS.
 
-### Just Click on Button and after 10 seconds it will identify the name process and PID.
+Just Click on Button and after 10 seconds it will identify the name process and PID.
 
 
 https://user-images.githubusercontent.com/45577616/154840955-10405585-7c2e-4af6-a08b-dbcef8300ad4.mp4
