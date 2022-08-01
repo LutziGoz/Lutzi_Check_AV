@@ -28,4 +28,4 @@ https://user-images.githubusercontent.com/45577616/154840955-10405585-7c2e-4af6-
 ### afwServ.exe = Internet Security by AVAST
 ### Enterpriseservice.exe = VIPRE Business Security
 ### WRSA.exe = Webroot SecureAnywhere
-### ZAPrivacyservice.exe = FREE Firewall by Check Point Software Technologies
+### ZAPrivacyservice.exe = FREE Firewall by Check Point Software Technologies.
